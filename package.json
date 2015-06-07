@@ -1,0 +1,25 @@
+{
+  "name": "url-data-aggregator",
+  "version": "0.0.1",
+  "description": "Node middleware for aggregating data coming from different url's",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vklap/url-data-aggregator.git"
+  },
+  "keywords": [
+    "url",
+    "data",
+    "aggregator",
+    "proxy"
+  ],
+  "author": "Victor Klapholz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vklap/url-data-aggregator/issues"
+  },
+  "homepage": "https://github.com/vklap/url-data-aggregator"
+}
