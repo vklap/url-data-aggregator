@@ -3,5 +3,5 @@
  */
 
 module.exports = {
-
+  aggregator: require('./lib/aggregator')
 };
