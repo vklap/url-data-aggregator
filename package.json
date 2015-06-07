@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/vklap/url-data-aggregator/issues"
   },
-  "homepage": "https://github.com/vklap/url-data-aggregator"
+  "homepage": "https://github.com/vklap/url-data-aggregator",
+  "devDependencies": {
+    "expect": "^1.6.0",
+    "mocha": "^2.2.5"
+  }
 }
